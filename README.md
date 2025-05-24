@@ -10,10 +10,6 @@ This is a simple calculator built with **React**, **Vite**, and **Tailwind CSS**
 - Clear (`C`) and Clear Entry (`CE`) buttons
 - Built with Vite for fast development and Tailwind CSS for styling
 
-## 📸 Preview
-
-![Calculator Screenshot]() <!-- Optional: Add an image if you want -->
-
 ## 🚀 Getting Started
 
 ### Prerequisites
